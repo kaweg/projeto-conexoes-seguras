@@ -7,10 +7,10 @@ Este repositório contém a documentação técnica e as implementações práti
 * **Curso:** Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (SENAI)
 
 ## 👥 Integrantes da Equipe
-* Integrante 1 - RGM / GitHub
-* Integrante 2 - RGM / GitHub
-* Integrante 3 - RGM / GitHub
-* Integrante 4 - RGM / GitHub
+* Integrante 1 - Kauê Alexandre Souza
+* Integrante 2 - Micael Domiciano
+* Integrante 3 - Gabriel Morais
+* Integrante 4 - Jhonatan Willian
 
 ## 📂 Estrutura de Módulos Implementados
 1. **[Módulo 1: Sniffing e Interceptação](./modulo1-sniffing/)** - Análise de tráfego e modo promíscuo.
