@@ -3,7 +3,7 @@
 Este repositório contém a documentação técnica e as implementações práticas (PoCs) referentes à Parte 1 do projeto prático semestral corporativo.
 
 ## 🔗 Links do Projeto
-* **Documentação Oficial (GitHub Pages):** [COLE_AQUI_O_LINK_DO_SEU_GITHUB_PAGES]
+* **Documentação Oficial (GitHub Pages):** [https://kaweg.github.io/projeto-conexoes-seguras/]
 * **Curso:** Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (SENAI)
 
 ## 👥 Integrantes da Equipe
