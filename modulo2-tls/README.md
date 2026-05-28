@@ -1,1 +1,2 @@
 
+O resultado exibido na tela do navegador é a prova real da criptografia híbrida em ação.  A sigla ECDHE_RSA (ou similar) refere-se ao algoritmo assimétrico utilizado na primeira fase (Handshake) para que o seu computador e o servidor do GitHub pudessem trocar as chaves sem que ninguém na rede as roubasse. Já a sigla AES_128_GCM indica o algoritmo simétrico que está sendo usado naquele exato momento para criptografar os dados da sua navegação atual de forma leve e extremamente veloz. 
