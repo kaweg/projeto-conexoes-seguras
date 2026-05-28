@@ -1,29 +1,19 @@
-# Projeto: Conexões Seguras
+# Projeto Semestral: Conexões Seguras
 
-Projeto semestral — SENAI Felix Guisard  
-Curso: Análise e Desenvolvimento de Sistemas
+Este repositório contém a documentação técnica e as implementações práticas (PoCs) referentes à Parte 1 do projeto prático semestral corporativo.
 
-## Módulos
+## 🔗 Links do Projeto
+* **Documentação Oficial (GitHub Pages):** [COLE_AQUI_O_LINK_DO_SEU_GITHUB_PAGES]
+* **Curso:** Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (SENAI)
 
-| Módulo | Tema |
-|--------|------|
-| [Módulo 1](./modulo1-sniffing/) | Sniffing e Interceptação |
-| [Módulo 2](./modulo2-tls/) | Criptografia e Handshake TLS |
-| [Módulo 3](./modulo3-sessao/) | Segurança na Camada de Aplicação |
-| [Módulo 4](./modulo4-vpn/) | VPN |
+## 👥 Integrantes da Equipe
+* Integrante 1 - RGM / GitHub
+* Integrante 2 - RGM / GitHub
+* Integrante 3 - RGM / GitHub
+* Integrante 4 - RGM / GitHub
 
-## Estrutura do Repositório
-
-- `modulo1-sniffing/` — PoC de captura de pacotes
-- `modulo2-tls/` — PoC de criptografia híbrida
-- `modulo3-sessao/` — PoC de gestão de sessão e cookies
-- `modulo4-vpn/` — PoC de VPN
-- `evidencias/` — prints e capturas de cada módulo
-- `relatorio.pdf` — relatório técnico final
-
-## Equipe
-
-- Kauê Alexandre Souza
-- Micael Domiciano
-- Jhonatan Willian
-- Gabriel Morais
+## 📂 Estrutura de Módulos Implementados
+1. **[Módulo 1: Sniffing e Interceptação](./modulo1-sniffing/)** - Análise de tráfego e modo promíscuo.
+2. **[Módulo 2: Criptografia e Handshake](./modulo2-tls/)** - Fundamentos do protocolo TLS/HTTPS.
+3. **[Módulo 3: Segurança na Camada de Aplicação](./modulo3-sessao/)** - Gestão de Cookies e identificadores de sessão.
+4. **[Módulo 4: VPN](./modulo4-vpn/)** - Túneis de conexão segura.
