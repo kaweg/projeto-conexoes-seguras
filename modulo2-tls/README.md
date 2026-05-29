@@ -7,3 +7,6 @@
 2. Fase Simétrica (Transferência de Dados): Uma vez que ambas as partes compartilham de forma segura a mesma Chave de Sessão, o algoritmo assimétrico é interrompido. Toda a comunicação subsequente e a transferência de dados passam a ser cifradas por algoritmos simétricos de alta performance, como o AES. A criptografia simétrica realiza operações de substituição e permutação de bits em blocos, o que consome uma fração mínima de hardware, permitindo uma transferência de dados veloz e segura.</p>
 
 <img width="1911" height="632" alt="image" src="https://github.com/user-attachments/assets/70407ea9-7938-4d18-8552-a9cfab2244bc" />
+
+
+<img width="1919" height="502" alt="image" src="https://github.com/user-attachments/assets/6f74777b-e23c-4b5b-bffc-84e9601fccf3" />
