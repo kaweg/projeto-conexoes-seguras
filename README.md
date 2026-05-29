@@ -78,7 +78,7 @@ Cada diretório abaixo possui um arquivo de documentação dedicado contendo a f
     </li>
     <br />
     <li>
-      <b><a href="./modulo4-vpn/">📂 Módulo 4: VPN (Virtual Private Network)</a></b>
+      <b><a href="./modulo4-vpn/evidencias">📂 Módulo 4: VPN (Virtual Private Network)</a></b>
       <br />Estudo de caso e PoC cobrindo arquitetura de tunelamento e comparação estrutural entre os protocolos OpenVPN e IPsec.
     </li>
   </ul>
