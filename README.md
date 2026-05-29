@@ -44,7 +44,7 @@ Alinhados com a proposta de trabalho em equipe (máximo de 4 integrantes), o gru
 
   </tr>
   <tr>
-    <td><b>Jhonatan Willian</b></td>
+    <td><b>Jonathan Willian</b></td>
 
   </tr>
 </table>
