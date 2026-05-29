@@ -6,3 +6,6 @@
 
 <p>2. Qual o papel do HTTPS na proteção de cookies de sessão durante a transmissão na rede? O que acontece se a aplicação usar apenas HTTP?</p>
 <p>O papel do HTTPS é garantir a confidencialidade e a integridade do Cookie SessionID durante o seu trânsito pela infraestrutura de rede. Ao estabelecer um canal criptografado na camada de transporte (TLS), o HTTPS encapsula e cifra todos os cabeçalhos HTTP de uma requisição, incluindo os Cookies. Portanto, os dados trafegam pela rede mascarados em texto cifrado.  Se a aplicação utilizar apenas HTTP comum, todos os dados trafegarão em texto limpo (plain text). Nesse cenário, se um atacante estiver monitorando a rede local em modo promíscuo (técnica detalhada no Módulo 1), ele conseguirá ler perfeitamente o cabeçalho Cookie: SessionID=... usando um Sniffer como o Wireshark. De posse desse ID exposto, o atacante poderá clonar o cookie em seu próprio navegador e assumir o controle imediato da conta da vítima, expondo o sistema corporativo a vazamentos de dados graves e fraudes. Como proteção adicional no desenvolvimento, a flag Secure deve ser implementada no Cookie, forçando o navegador a transmiti-lo exclusivamente sob o protocolo HTTPS.</p> 
+
+
+<img width="1919" height="1087" alt="image" src="https://github.com/user-attachments/assets/be023c01-c527-49d9-87f5-7d1e2b92fbc7" />
