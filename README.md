@@ -29,27 +29,27 @@ Alinhados com a proposta de trabalho em equipe (máximo de 4 integrantes), o gru
 <table align="center">
   <tr>
     <th align="center">👤 Integrante</th>
-    <th align="center">🛠️ Perfil GitHub</th>
+
   </tr>
   <tr>
     <td><b>Kauê Alexandre Souza</b></td>
-    <td align="center"><a href="https://github.com/kaweg">🖥️ @kaweg</a></td>
+
   </tr>
   <tr>
     <td><b>Micael Domiciano</b></td>
-    <td align="center">🔍 @usuario_micael</td>
+
   </tr>
   <tr>
     <td><b>Gabriel Morais</b></td>
-    <td align="center">🛡️ @usuario_gabriel</td>
+
   </tr>
   <tr>
     <td><b>Jhonatan Willian</b></td>
-    <td align="center">⚡ @usuario_jhonatan</td>
+
   </tr>
 </table>
 
-*(Nota: Lembrem-se de atualizar os links reais dos perfis do GitHub de cada um nas tags acima!)*
+
 
 ---
 
