@@ -83,7 +83,7 @@ Cada diretório abaixo possui um arquivo de documentação dedicado contendo a f
     </li>
     <br>
      <li>
-      <b><a href=".evidencias.md">📂 Evidencias dos testes realizados</a></b>
+      <b><a href="./evidencias.md/">📂 Evidencias dos testes realizados</a></b>
       <br />
     </li>
   </ul>
