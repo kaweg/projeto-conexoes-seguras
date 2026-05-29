@@ -1,1 +1,2 @@
 
+A flag HttpOnly ativa garante que o cookie de sessão fique invisível para códigos JavaScript. Isso significa que mesmo que o site sofra um ataque de injeção de script maligno (XSS), o invasor não conseguirá roubar o SessionID via código.  A flag Secure ativa obriga o navegador a nunca enviar esse cookie se a conexão mudar para HTTP comum. O cookie só trafega se a URL começar com HTTPS, anulando o risco de vazamento por descuido de rede.  
