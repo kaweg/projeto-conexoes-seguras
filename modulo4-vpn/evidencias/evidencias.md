@@ -15,4 +15,5 @@
 <h1>Módulo 3: Segurança na Camada de Aplicação (Desenvolvimento)</h1>
 
 
-<img width="1918" height="988" alt="image" src="https://github.com/user-attachments/assets/8bfd643c-7ed0-434d-a128-0c2a6e78b9c8" />
+<img width="1919" height="1087" alt="image" src="https://github.com/user-attachments/assets/be023c01-c527-49d9-87f5-7d1e2b92fbc7" />
+
